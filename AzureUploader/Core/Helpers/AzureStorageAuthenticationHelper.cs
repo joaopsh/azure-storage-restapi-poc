@@ -124,7 +124,6 @@ namespace AzureUploader.Core.Helpers
             }
 
             return sb.ToString();
-
         }
     }
 }
